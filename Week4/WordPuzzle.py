@@ -1,3 +1,4 @@
+# For the creative task, your friend will input the secret word.
 secret_word = input("Enter the secret word: ").lower()
 
 print("Welcome to the word guessing game!")
