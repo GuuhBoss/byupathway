@@ -1,4 +1,5 @@
-print("My friend enjoyed the game, said it was fun and engaging!")
+print("My 1st friend enjoyed the game, said it was fun and engaging!")
+print("My 2nd friend also liked, and said it was a great adventure!")
 
 print("""
 🌲 Welcome to The Enchanted Forest Mystery! 🌲
