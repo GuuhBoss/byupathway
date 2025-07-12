@@ -1,3 +1,5 @@
+print("My friend enjoyed the game, said it was fun and engaging!")
+
 print("""
 🌲 Welcome to The Enchanted Forest Mystery! 🌲
 ==================================================
