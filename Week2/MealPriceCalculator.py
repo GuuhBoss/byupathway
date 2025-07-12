@@ -46,3 +46,11 @@ while True:
     print(f"Payment must be at least ${total:.2f}. Please re-enter.")
 change = payment_amount - total
 print(f"Change: ${change:.2f}")
+
+# Rating the restaurant environment
+while True:
+    rating = int(input("Enter the restaurant environment rating (1-10): "))
+    if rating < 11 or rating > 0:
+        break
+    print("Rating must be between 1 and 10.")
+print(f"Rating: {rating}, Thank you for your feedback!")
